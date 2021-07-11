@@ -7,16 +7,5 @@
 - 💬 Ask me about anything related to programming and penetration testing.
 - 📫 How to reach me: 09056907657chi@gmail.com
 - ⚡ Fun fact: I love sport especially Football and Gym
--->
-
-Connect with me:
-
-<img align="left" src="https://www.facebook.com/caleb.emmanuel.75098" />
-
-
-Language and Tools:
-
-<img align="left" src="https://www.python.org" />
----
 
 <img align="left" alt="calebemmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=calebemmanuel&show_icons=true&theme=cobalt" />

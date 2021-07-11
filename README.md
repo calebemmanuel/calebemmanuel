@@ -9,13 +9,14 @@
 - ⚡ Fun fact: I love sport especially Football and Gym
 -->
 
-##Connect with me:
+Connect with me:
 
 <img align="left" src="https://www.facebook.com/caleb.emmanuel.75098" />
 
 
 Language and Tools:
 
+<img align="left" src="https://www.python.org" />
 ---
 
 <img align="left" alt="calebemmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=calebemmanuel&show_icons=true&theme=cobalt" />

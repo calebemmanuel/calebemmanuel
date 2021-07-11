@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, i am caleb also known as alvin 👋
 
-<!--
-**calebemmanuel/calebemmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I am Programmer, Student, and Teacher!
+- 🔭 I’m currently working on some cool AI/ML Projects ⚡
+- 🌱 I’m currently learning anything that interest me 🤔
+- 👯 I’m looking to collaborate with other content creators.
+- 💬 Ask me about anything related to programming and penetration testing.
+- 📫 How to reach me: 09056907657chi@gmail.com
+- ⚡ Fun fact: I love sport especially Football and Gym
 -->
+
+Connect with me:
+
+
+
+Language and Tools:
+
+---
+
+<img align="left" alt="calebemmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=calebemmanuel&show_icon=true&hide_border=true" />
+
+<img align="left" alt="calebemmanuel Github Stats" src="https://github-readme-stats.vercel.app/api?username=calebemmanuel&show_icons=true&theme=cobalt" />
